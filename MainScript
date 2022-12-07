@@ -1,4 +1,4 @@
 local Hwid = game:GetService("RbxAnalyticsService"):GetClientId()
 setclipboard(Hwid)
 
-game.Players.LocalPlayer:Kick("Youre HWID Has Been Copied to your clipboard Youre HWID Is : "..Hwid)
+game.Players.LocalPlayer:Kick("Youre HWID Has Been Copied to your clipboard |  Youre HWID Is : "..Hwid)
